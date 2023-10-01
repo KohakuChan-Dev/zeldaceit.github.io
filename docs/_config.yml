@@ -11,10 +11,10 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: ZeldaCeit
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
-useBedrockForOnlineStatus: false
+serverIP: 45.130.141.229:19132
+useBedrockForOnlineStatus: true
 
 
 # Discord information
